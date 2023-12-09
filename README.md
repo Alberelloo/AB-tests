@@ -4,16 +4,16 @@ Statistical tests and ML procedures for AB-tests
 
 # Proportions Tests
   1. One Sample Proportions
-     a. Exact tests
-     b. Z-tests
+     * Exact tests
+     * Z-tests
   2. Two One Sample Proportions (TOST)
-     a. Large-sample z-test
-     b. Approximations
+     * Large-sample z-test
+     * Approximations
   3. Two Sample Proportions
-     a. Fisher's Exact Test
-     b. Z-Test (or Chi-Square Test) (Pooled and Unpooled)
-     c. Conditional Mantel-Haenszel Test
-     d. Likelihood Ratio Test
-     e. T-Test
+     * Fisher's Exact Test
+     * Z-Test (or Chi-Square Test) (Pooled and Unpooled)
+     * Conditional Mantel-Haenszel Test
+     * Likelihood Ratio Test
+     * T-Test
   4. Sample Size calculations
   5. Practice
